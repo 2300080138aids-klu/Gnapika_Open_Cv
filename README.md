@@ -1,3 +1,9 @@
 # Gnapika_Open_Cv
+
 Day 1
+
 <img width="1366" height="922" alt="image" src="https://github.com/user-attachments/assets/dc19f3f9-f583-47ac-aa10-7655f8006d4d" />
+
+Day 2
+
+<img width="1373" height="910" alt="image" src="https://github.com/user-attachments/assets/b2947f2d-d428-4977-bb4a-e8a1e46e5002" />
