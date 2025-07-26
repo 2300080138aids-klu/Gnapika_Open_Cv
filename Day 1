@@ -44,8 +44,6 @@ int main() {
 }
 
 
-
-
 Output:
 C[0] = -nan
 C[1] = 0
